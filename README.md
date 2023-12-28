@@ -12,5 +12,6 @@
 
 ## Translation services
 
+* [Crowdin](https://crowdin.com/)
 * [Locize](https://locize.com/) - Open source [fluent parser](https://github.com/locize/fluent-translation-parser)
 * [Lokalise](https://lokalise.com/)
