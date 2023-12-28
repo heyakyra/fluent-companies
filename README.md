@@ -7,6 +7,7 @@
 * [Stackable](https://stackable.tech/) modular open source data platform
 * [Ruffle](https://ruffle.rs/) a Flash Player emulator built in the Rust programming language
 * [SlimeVR](https://slimevr.dev/) wireless, 360° full-body tracking in virtual reality 
+* [Vox Media](https://corp.voxmedia.com/) used in commenting platform [Coral](https://coralproject.net/)
 
 ## Translation services
 
