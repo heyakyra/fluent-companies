@@ -4,3 +4,4 @@
 * [Mozilla](https://www.mozilla.org/) the creators of Firefox
 * [EditShare](https://editshare.com/) media asset management, storage, and collaboration
 * [Astian](https://astian.org/) privacy focused products: web browser, VPN, file storage, etc.
+* [Stackable](https://stackable.tech/) modular open source data platform
