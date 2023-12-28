@@ -5,3 +5,4 @@
 * [EditShare](https://editshare.com/) media asset management, storage, and collaboration
 * [Astian](https://astian.org/) privacy focused products: web browser, VPN, file storage, etc.
 * [Stackable](https://stackable.tech/) modular open source data platform
+* [Ruffle](https://ruffle.rs/) a Flash Player emulator built in the Rust programming language
