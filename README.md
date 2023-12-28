@@ -12,4 +12,5 @@
 
 ## Translation services
 
+* [Locize](https://locize.com/) - Open source [fluent parser](https://github.com/locize/fluent-translation-parser)
 * [Lokalise](https://lokalise.com/)
