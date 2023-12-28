@@ -6,3 +6,4 @@
 * [Astian](https://astian.org/) privacy focused products: web browser, VPN, file storage, etc.
 * [Stackable](https://stackable.tech/) modular open source data platform
 * [Ruffle](https://ruffle.rs/) a Flash Player emulator built in the Rust programming language
+* [SlimeVR](https://slimevr.dev/) wireless, 360° full-body tracking in virtual reality 
