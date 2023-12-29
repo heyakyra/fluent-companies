@@ -1,6 +1,8 @@
 # Fluent Companies
 🌐 A list of companies and organizations using [Project Fluent](https://projectfluent.org/) for translations in production.
 
+*Inspired by [Elm Companies](https://github.com/jah2488/elm-companies) and [Haskell Companies](https://github.com/erkmos/haskell-companies).*
+
 * [Astian](https://astian.org/) privacy focused products: web browser, VPN, file storage, etc.
 * [EditShare](https://editshare.com/) media asset management, storage, and collaboration
 * [Krellian](https://krellian.com/) sponsor of [WebThings](https://webthings.io/)
