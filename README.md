@@ -21,3 +21,4 @@ These services support `.ftl` files for the translation of products (i.e. one of
 * [Crowdin](https://crowdin.com/)
 * [Locize](https://locize.com/) - Open source [fluent parser](https://github.com/locize/fluent-translation-parser)
 * [Lokalise](https://lokalise.com/)
+* [Weblate](https://weblate.org/) - Open source translation platform
