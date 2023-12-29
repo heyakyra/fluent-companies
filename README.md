@@ -1,5 +1,9 @@
 # Fluent Companies
-🌐 A list of companies and organizations using [Project Fluent](https://projectfluent.org/) for translations in production. Project Fluent is a modern and flexible localization system that builds off of the lessons and limitations of [GNU gettext](https://github.com/projectfluent/fluent/wiki/Fluent-vs-gettext), [ICU MessageFormat](https://github.com/projectfluent/fluent/wiki/Fluent-and-ICU-MessageFormat), and [L20n](https://github.com/projectfluent/fluent/wiki/Fluent-and-L20n). 
+🌐 A list of companies and organizations using [Project Fluent](https://projectfluent.org/) for translations in production. 
+
+[![Project Fluent Logo](project-fluent-logo.png)](https://projectfluent.org/)
+
+Project Fluent is a modern and flexible localization system that builds off of the lessons and limitations of [GNU gettext](https://github.com/projectfluent/fluent/wiki/Fluent-vs-gettext), [ICU MessageFormat](https://github.com/projectfluent/fluent/wiki/Fluent-and-ICU-MessageFormat), and [L20n](https://github.com/projectfluent/fluent/wiki/Fluent-and-L20n). 
 
 *Inspired by [Elm Companies](https://github.com/jah2488/elm-companies) and [Haskell Companies](https://github.com/erkmos/haskell-companies).*
 
