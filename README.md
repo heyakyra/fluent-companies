@@ -10,6 +10,7 @@ Project Fluent is a modern and flexible localization system that builds off of t
 ## Organizations Using Fluent
 
 * [Astian](https://astian.org/) privacy focused products: web browser, VPN, file storage, etc.
+* [Bevy](https://bevyengine.org/) a data-driven game engine
 * [EditShare](https://editshare.com/) media asset management, storage, and collaboration
 * [Krellian](https://krellian.com/) sponsor of [WebThings](https://webthings.io/)
 * [Mozilla](https://www.mozilla.org/) the creators of Firefox
